@@ -2,7 +2,7 @@
 
 Actualmente ejerzo como desarrollador Full Stack con enfasis en datos. Soy  estudiante de Ingeniería de Sistemas en la Universidad de Antioquia, actualmente en mi séptimo semestre. Apasionado por el desarrollo de software con un enfoque en datos e inteligencia artificial. Me apasiona los gráficos 3D (modelado, texturizado redenderizado). Me destaco por mi capacidad analítica y mi constante búsqueda de aprendizaje y retos tecnológicos.
 
-💼 Experiencia Laboral
+## 💼 Experiencia Laboral
 - **Desarrollador Full Stack con énfasis en datos [2024-2025]**
 **Funciones**
 - Diseño y desarrollo de arquitectura de soluciones de referencia transversal para RPA e integración con Microsoft Fabric y One Lake.
