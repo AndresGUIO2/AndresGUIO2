@@ -41,54 +41,14 @@ Soy una persona proactiva, deseosa de aprender y orientada a resultados. Me entu
 
 ## ⚙️ Tecnologías y Herramientas
 
-### 💻 Lenguajes
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge" width="150" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge" width="150" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge" width="150" />
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&style=for-the-badge" width="150" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&style=for-the-badge" width="150" />
-</p>
+| 💻 Lenguajes | 🔧 Backend & APIs | 🗄️ Bases de Datos | 📦 DevOps & Contenedores | 🌐 Big Data & ETL | 🎨 Gráficos y Shaders | 🔗 Otros |
+|:------------:|:----------------:|:-----------------:|:-----------------------:|:----------------:|:---------------------:|:--------:|
+| <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/Spark-E25A1C?logo=apache-spark&style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&style=flat-square" height="40" /> |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/Flask-000000?logo=flask&style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtoken&style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/GLSL-128E68?style=flat-square" height="40" /> | |
+| <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&style=flat-square" height="40" /> |  |  | <img src="https://img.shields.io/badge/OpenCL-ED2E25?logo=opencl&style=flat-square" height="40" /> | |
+| <img src="https://img.shields.io/badge/C-00599C?logo=c&style=flat-square" height="40" /> |  | <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&style=flat-square" height="40" /> |  |  |  | |
+| <img src="https://img.shields.io/badge/Java-007396?logo=java&style=flat-square" height="40" /> |  | <img src="https://img.shields.io/badge/OneLake-0052CC?style=flat-square" height="40" /> |  |  |  | |
 
-### 🔧 Backend & APIs
-<p align="center">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&style=for-the-badge" width="140" />
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&style=for-the-badge" width="140" />
-  <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&style=for-the-badge" width="140" />
-</p>
-
-### 🗄️ Bases de Datos
-<p align="center">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=for-the-badge" width="140" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&style=for-the-badge" width="140" />
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&style=for-the-badge" width="140" />
-  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&style=for-the-badge" width="140" />
-  <img alt="OneLake" src="https://img.shields.io/badge/OneLake-0052CC?style=for-the-badge" width="140" />
-</p>
-
-### 📦 DevOps & Contenedores
-<p align="center">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge" width="140" />
-  <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtoken&style=for-the-badge" width="140" />
-</p>
-
-### 🌐 Big Data & ETL
-<p align="center">
-  <img alt="Spark" src="https://img.shields.io/badge/Spark-E25A1C?logo=apache-spark&style=for-the-badge" width="140" />
-  <img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge" width="140" />
-</p>
-
-### 🎨 Gráficos y Shaders
-<p align="center">
-  <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&style=for-the-badge" width="140" />
-  <img alt="GLSL" src="https://img.shields.io/badge/GLSL-128E68?style=for-the-badge" width="140" />
-  <img alt="OpenCL" src="https://img.shields.io/badge/OpenCL-ED2E25?logo=opencl&style=for-the-badge" width="140" />
-</p>
-
-### 🔗 Otros
-<p align="center">
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&style=for-the-badge" width="140" />
-</p>
 
 ## 🎯 Intereses
 
