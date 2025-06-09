@@ -11,7 +11,7 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad de Antioquia, actual
 ## 🛠 Proyectos Destacados
 
 ### 2024: Deep Learning and Shader Implementation
-- **Innovit Software**  
+- **Innovati Software**  
   Desarrollo de shaders personalizados y algoritmos de deep learning para mejorar la calidad visual de proyectos multimedia.
 
   **Logros:**
@@ -28,21 +28,21 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad de Antioquia, actual
 
 ## 🚀 Sobre Mí
 
-Soy curioso, proactivo y orientado a resultados. Mi pasión por la tecnología me ha llevado a explorar desde la inteligencia artificial hasta los gráficos por computadora y la ciberseguridad. Me motiva crear soluciones innovadoras y siempre estoy en busca de proyectos que desafíen mis habilidades y conocimientos.
+Soy una persona proactiva, deseosa de aprender y orientada a resultados. Me entusiasma la tecnología. Me motiva crear soluciones innovadoras y siempre estoy en busca de proyectos que desafíen mis habilidades y conocimientos.
 
 ## ⚙️ Habilidades Técnicas
 
-- **Programación:** Python, JavaScript, TypeScript.
-- **Backend:** FastAPI, Flask, SpringBoot
+- **Lenguajes de Programación:** Python, JavaScript, TypeScript, C, Java.
+- **Backend:** FastAPI, Flask, SpringBoot.
 - **Gráficos y Shaders:** OpenGL, GLSL, diseño y desarrollo de vertex y fragment shaders.
-- **Base de Datos:** PostgreSQL, MongoDB, Redis, Oracle SQL.
-- **Otros:** Docker, JWT, Firebase, OpenCL.
+- **Base de Datos:** PostgreSQL, MongoDB, Redis, Oracle SQL, OneLake.
+- **Otros:** Docker, JWT, Firebase, OpenCL, Spark, Microsoft Fabric, Power Apps, Power Automate.
 
 ## 🎯 Intereses
 
 - **Inteligencia Artificial:** Diseño y desarrollo de modelos de deep learning y sistemas de recomendación.
-- **Ciberseguridad:** Preparándome para adentrarme en la industria con un enfoque en la protección de sistemas y datos.
 - **Gráficos por Computadora:** Creación de shaders y efectos visuales avanzados para aplicaciones multimedia.
+- ** Ingeniería de datos: ** Uso de ETL/ELT, estandarización y transformación para inteligencia de negocio.
 
 ## 📫 Contacto
 
