@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Andrés Güiza
 
-Actualmente ejerzo como desarrollador Full Stack con enfasis en datos. Soy  estudiante de Ingeniería de Sistemas en la Universidad de Antioquia, actualmente en mi séptimo semestre. Apasionado por el desarrollo de software con un enfoque en datos e inteligencia artificial. Me apasiona los gráficos 3D (modelado, texturizado redenderizado). Me destaco por mi capacidad analítica y mi constante búsqueda de aprendizaje y retos tecnológicos.
+Actualmente ejerzo como desarrollador Full Stack con enfasis en datos. Soy  estudiante de Ingeniería de Sistemas en la Universidad de Antioquia, actualmente en mi séptimo semestre. Interesado por el desarrollo de software con un enfoque en datos e inteligencia artificial. Me apasiona los gráficos 3D (modelado, texturizado redenderizado). Me destaco por mi capacidad analítica y mi constante búsqueda de aprendizaje y retos tecnológicos.
 
 ## 💼 Experiencia Laboral
 Innovati Software
