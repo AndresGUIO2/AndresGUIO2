@@ -5,7 +5,8 @@ Actualmente ejerzo como desarrollador Full Stack con enfasis en datos. Soy  estu
 ## 💼 Experiencia Laboral
 Innovati Software
 - **Desarrollador Full Stack con énfasis en datos [2024-2025]**
-**Funciones**
+  
+### **Funciones**
 - Diseño y desarrollo de arquitectura de soluciones de referencia transversal para RPA e integración con Microsoft Fabric y One Lake.
 - Ingeniería de datos a través de arquitectura de medallón y alineación con arquitectura empresarial con target datacentric.
 - Desarrollo de aplicaciones RPA en la nube con Power Automate e integración con servicios internos y externos.
