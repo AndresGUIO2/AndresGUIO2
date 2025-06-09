@@ -38,7 +38,6 @@ Actualmente ejerzo como desarrollador Full Stack con enfasis en datos. Soy  estu
 Soy una persona proactiva, deseosa de aprender y orientada a resultados. Me entusiasma la tecnología. Me motiva crear soluciones innovadoras y siempre estoy en busca de proyectos que desafíen mis habilidades y conocimientos.
 
 ## ⚙️ Tecnologías y Herramientas
-## ⚙️ Tecnologías y Herramientas
 
 ### 💻 Lenguajes
 <p align="center">
@@ -88,24 +87,6 @@ Soy una persona proactiva, deseosa de aprender y orientada a resultados. Me entu
 <p align="center">
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&style=for-the-badge" width="140" />
 </p>
-
-
-### DevOps & Contenedores
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat-square)  
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtoken&style=flat-square)
-
-### Big Data & ETL
-![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apache-spark&style=flat-square)  
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square)
-
-### Gráficos y Shaders
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&style=flat-square)  
-![GLSL](https://img.shields.io/badge/GLSL-128E68?style=flat-square)  
-![OpenCL](https://img.shields.io/badge/OpenCL-ED2E25?logo=opencl&style=flat-square)
-
-### Otros
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&style=flat-square)  
-
 
 ## 🎯 Intereses
 
