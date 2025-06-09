@@ -58,4 +58,6 @@ Soy una persona proactiva, deseosa de aprender y orientada a resultados. Me entu
 
 ## 📫 Contacto
 
-- **Email:** [andres.guiza@udea.edu.co](mailto:andres.guiza@udea.edu.co)
+- **Email:**
+  - [andres.guiza@udea.edu.co](mailto:andres.guiza@udea.edu.co)
+  - [handres.guor@gmail.com](mailto:handres.guor@gmail.com)
