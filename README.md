@@ -41,43 +41,13 @@ Soy una persona proactiva, deseosa de aprender y orientada a resultados. Me entu
 
 ## ⚙️ Tecnologías y Herramientas
 
-<div style="display: grid; grid-template-columns: repeat(7, auto); justify-content: center; gap: 12px; align-items: center;">
-
-  <!-- Lenguajes -->
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square" height="40" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square" height="40" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=flat-square" height="40" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&style=flat-square" height="40" alt="C"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&style=flat-square" height="40" alt="Java"/>
-
-  <!-- Backend & APIs -->
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&style=flat-square" height="40" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&style=flat-square" height="40" alt="Flask"/>
-
-  <!-- Bases de Datos -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=flat-square" height="40" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&style=flat-square" height="40" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&style=flat-square" height="40" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&style=flat-square" height="40" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/OneLake-0052CC?style=flat-square" height="40" alt="OneLake"/>
-
-  <!-- DevOps & Contenedores -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat-square" height="40" alt="Docker"/>
-  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtoken&style=flat-square" height="40" alt="JWT"/>
-
-  <!-- Big Data & ETL -->
-  <img src="https://img.shields.io/badge/Spark-E25A1C?logo=apache-spark&style=flat-square" height="40" alt="Spark"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square" height="40" alt="Microsoft Fabric"/>
-
-  <!-- Gráficos y Shaders -->
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&style=flat-square" height="40" alt="OpenGL"/>
-  <img src="https://img.shields.io/badge/GLSL-128E68?style=flat-square" height="40" alt="GLSL"/>
-  <img src="https://img.shields.io/badge/OpenCL-ED2E25?logo=opencl&style=flat-square" height="40" alt="OpenCL"/>
-
-  <!-- Otros -->
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&style=flat-square" height="40" alt="Firebase"/>
-
-</div>
+| 💻 Lenguajes | 🔧 Backend & APIs | 🗄️ Bases de Datos | 📦 DevOps & Contenedores | 🌐 Big Data & ETL | 🎨 Gráficos y Shaders | 🔗 Otros |
+|:------------:|:----------------:|:-----------------:|:-----------------------:|:----------------:|:---------------------:|:--------:|
+| <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/Spark-E25A1C?logo=apache-spark&style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&style=flat-square" height="40" /> |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/Flask-000000?logo=flask&style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtoken&style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/GLSL-128E68?style=flat-square" height="40" /> | |
+| <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&style=flat-square" height="40" /> | <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&style=flat-square" height="40" /> |  |  | <img src="https://img.shields.io/badge/OpenCL-ED2E25?logo=opencl&style=flat-square" height="40" /> | |
+| <img src="https://img.shields.io/badge/C-00599C?logo=c&style=flat-square" height="40" /> |  | <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&style=flat-square" height="40" /> |  |  |  | |
+| <img src="https://img.shields.io/badge/Java-007396?logo=java&style=flat-square" height="40" /> |  | <img src="https://img.shields.io/badge/OneLake-0052CC?style=flat-square" height="40" /> |  |  |  | |
 
 
 ## 🎯 Intereses
