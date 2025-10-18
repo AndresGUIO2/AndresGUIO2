@@ -1,50 +1,87 @@
-👋 Hi there! I'm Andrés Güiza
-I'm a Full Stack Developer with a focus on data engineering, currently pursuing my Systems Engineering degree at Universidad de Antioquia (7th semester). I'm passionate about software development with an emphasis on data and artificial intelligence. I love 3D graphics (modeling, texturing, and rendering) and thrive on analytical challenges and continuous learning.
-💼 Professional Experience
-Innovati Software
+# Hi there, I'm Andrés Güiza
 
-Full Stack Developer with Data Focus [2024-2025]
+Full Stack Developer focused on data engineering. Currently studying Systems Engineering at Universidad de Antioquia (7th semester).
 
-Key Responsibilities
+I work with data pipelines, RPA automation, and ML models. Also interested in 3D graphics and shader programming.
 
-Design and development of cross-functional reference architectures for RPA and integration with Microsoft Fabric and OneLake
-Data engineering through medallion architecture aligned with enterprise data-centric strategies
-Cloud-based RPA application development using Power Automate with internal and external service integrations
+---
 
-🎓 Education
-Systems Engineering (7th semester)
-Universidad de Antioquia, Colombia
-2021 - Present
-🛠 Featured Projects
-2024: Deep Learning and Shader Implementation
-Innovati Software
-Development of custom shaders and deep learning algorithms to enhance visual quality in multimedia projects.
-Key Achievements:
+## Work Experience
 
-Created advanced 3D effects through custom vertex and fragment shader programming
-Integrated deep learning models for unique, optimized visual effects generation
+**Full Stack Developer - Data Focus**  
+*Innovati Software | 2024 - 2025*
 
-2023: Machine Learning-Driven Web Development for Product Recommendations
-Andigames.online
-Implementation of recommendation systems using machine learning algorithms and robust backend development with FastAPI.
-Key Achievements:
+- Building RPA solutions with Power Automate and Microsoft Fabric integration
+- Designing data pipelines using medallion architecture
+- Developing cloud-based automation workflows
 
-Leveraged FAISS for optimized product recommendation searches
-Built secure authentication system with JWT tokens for user session management
+---
 
-🚀 About Me
-I'm a proactive, results-oriented professional with a passion for technology and continuous learning. I'm driven by creating innovative solutions and always seeking projects that challenge my skills and knowledge.
-⚙️ Tech Stack & Tools
-💻 Languages🔧 Backend & APIs🗄️ Databases📦 DevOps & Containers🌐 Big Data & ETL🎨 Graphics & Shaders🔗 Other<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" height="40" /><img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" height="40" /><img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square" height="40" /><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" height="40" /><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white&style=flat-square" height="40" /><img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=flat-square" height="40" /><img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" height="40" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" height="40" /><img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square" height="40" /><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" height="40" /><img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=flat-square" height="40" /><img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?logo=microsoft&logoColor=white&style=flat-square" height="40" /><img src="https://img.shields.io/badge/GLSL-5586A4?logo=opengl&logoColor=white&style=flat-square" height="40" /><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" height="40" /><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square" height="40" /><img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square" height="40" /><img src="https://img.shields.io/badge/OpenCL-ED2E25?style=flat-square&logoColor=white" height="40" /><img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat-square" height="40" /><img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=flat-square" height="40" /><img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square" height="40" /><img src="https://img.shields.io/badge/OneLake-0078D4?logo=microsoft&logoColor=white&style=flat-square" height="40" />
-🎯 Areas of Interest
+## Education
 
-Artificial Intelligence: Design and development of deep learning models and recommendation systems
-Computer Graphics: Creation of shaders and advanced visual effects for multimedia applications
-Data Engineering: ETL/ELT pipelines, data standardization and transformation for business intelligence
+**Systems Engineering**  
+Universidad de Antioquia | 2021 - Present
 
-📫 Get in Touch
+---
 
-Email:
+## Featured Projects
 
-andres.guiza@udea.edu.co
-handres.guor@gmail.com
+### Deep Learning & Shader Implementation (2024)
+*Innovati Software*
+
+Developed custom vertex and fragment shaders integrated with deep learning algorithms for visual effects in multimedia projects.
+
+### ML Product Recommendations (2023)
+*Andigames.online*
+
+Built a recommendation system using FastAPI with FAISS for similarity search and JWT authentication.
+
+---
+
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
+
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge)
+
+### Data & Cloud
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?logo=microsoft&logoColor=white&style=for-the-badge)
+
+### Graphics & Shaders
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge)
+![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logoColor=white)
+![OpenCL](https://img.shields.io/badge/OpenCL-ED2E25?style=for-the-badge&logoColor=white)
+
+### Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
+
+---
+
+## What I'm Into
+
+- Designing ML models and recommendation systems
+- Creating shaders and visual effects
+- Building ETL/ELT pipelines for data analytics
+
+---
+
+## Get in Touch
+
+**Email:** andres.guiza@udea.edu.co | handres.guor@gmail.com
